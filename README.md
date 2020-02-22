@@ -8,5 +8,5 @@ Number: [Input a credit card number from American Express, MasterCard(first digi
 ```
 
 ## What I have learned 
-* By transfering each digit in the number into an array of integers, I found that I can directly access each digit of a number intuitively using the array
+* By transfering each digit in the number into an array of integers, I found that I can directly access each digit of a number intuitively using index of the array
 * Applying Luhn's Algorithm in Python
